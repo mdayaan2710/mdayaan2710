@@ -1,68 +1,60 @@
-<h1 align="center">Hi there, I'm Ayaan 👋</h1>
+<h1 align="center">Hey, I'm Dayaan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4B53B&center=true&width=435&lines=Code+Artist+%7C+Dreamer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7F9&center=true&vCenter=true&width=435&lines=Developer+%7C+Tech+Explorer+%7C+Code+Connoisseur" alt="Typing SVG" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/mdayaan2710/mdayaan2710/raw/main/assets/welcome.gif" width="60%" alt="Welcome!" />
+  <img src="https://raw.githubusercontent.com/mdayaan2710/mdayaan2710/main/assets/welcome.gif" width="50%" alt="Welcome!" />
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 About Me
+- 🔭 Crafting mobile apps, websites, and futuristic projects
+- 🌐 Exploring the infinite possibilities of tech
+- 🧠 Curiosity-driven and constantly upgrading my skills
+
+---
+
+### 🔧 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=FF5733" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" />
-  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 Currently Working On
-- Crafting amazing mobile apps 📱
-- Exploring open-source projects 🌏
-- Building an awesome portfolio website 🎨
-
----
-
-### 🌱 Learning Journey
-Always curious and always learning! Currently diving into:
-- **Flutter** for cross-platform magic
-- **Machine Learning** to make smarter apps
-- **Cloud Computing** to scale my projects 🚀
+### 📈 Stats & Activity
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mdayaan2710&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdayaan2710&theme=radical&hide_border=true" />
+</div>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Send-yellow?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=firefox-browser" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-lightgreen?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🔥 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdayaan2710&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdayaan2710&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🎉 Fun Fact
-> "I speak in code and dream in algorithms. You bring the problem; I’ll bring the solution!" 😄
+### ⚡ Fun Fact
+> "Turning coffee into code & dreams into digital reality."
 
 ---
 
@@ -73,5 +65,5 @@ Always curious and always learning! Currently diving into:
 
 <!-- Footer -->
 <div align="center">
-  <p>💻 Crafted with passion by <a href="https://github.com/mdayaan2710">mdayaan2710</a></p>
+  <p>🔗 Crafted with ❤️ by <a href="https://github.com/mdayaan2710">mdayaan2710</a></p>
 </div>
