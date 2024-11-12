@@ -2,14 +2,17 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7F9&center=true&vCenter=true&width=500&lines=Android+Developer;Reverse+Engineer;Passionate+Technologist;Coding+Innovator;Creating+the+Future" alt="Dynamic Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7F9&center=true&vCenter=true&width=500&lines=Android+Developer;Reverse+Engineer;Passionate+Technologist;Coding+Innovator;Creating+the+Future" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- Blinking Icon-based Summary -->
+<!-- Blinking Icon-based Summary (Using Shields.io for custom look) -->
 <p align="center" style="font-size: 20px; font-weight: bold;">
-  <span style="color:#00F7F9;">•</span> Android Development <span style="color:#00F7F9;">•</span> Reverse Engineering <span style="color:#00F7F9;">•</span> Creative Tech <span style="color:#00F7F9;">•</span> Futuristic Projects
+  <img src="https://img.shields.io/badge/Android_Development-00F7F9?style=flat&logo=android&logoColor=black" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-00F7F9?style=flat&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Creative_Tech-00F7F9?style=flat&logo=atom&logoColor=black" />
+  <img src="https://img.shields.io/badge/Futuristic_Projects-00F7F9?style=flat&logo=futurama&logoColor=black" />
 </p>
 
 ---
@@ -22,7 +25,7 @@
 ---
 
 ### 💻 **Tech Vision**
-Imagine an animated roadmap-style visual that dynamically moves across the screen, representing your tech journey:
+> Imagine an animated roadmap of my journey in the tech world:
 
 - 📌 Android Apps → Developing intuitive, high-performance applications
 - 🔍 Reverse Engineering → Analyzing and understanding complex code
@@ -32,27 +35,24 @@ Imagine an animated roadmap-style visual that dynamically moves across the scree
 ---
 
 ### 🌌 **Skills in Motion**
-> Here, we create an animation effect using only text and CSS, simulating a "moving lights" effect for each skill in a tech stack.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-39ff14?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-ff073a?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-39ff14?style=for-the-badge&logo=flutter&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-ff073a?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-39ff14?style=for-the-badge&logo=amazonaws&logoColor=black" />
+</p>
 
-```html
+---
+
+### 📈 **GitHub Stats**
 <div align="center">
-  <p style="font-size: 20px; letter-spacing: 1px;">
-    <span class="neon-text">Java</span> |
-    <span class="neon-text">Python</span> |
-    <span class="neon-text">Flutter</span> |
-    <span class="neon-text">Docker</span> |
-    <span class="neon-text">AWS</span>
-  </p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mdayaan2710&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdayaan2710&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
-<style>
-  .neon-text {
-    animation: flicker 1.5s infinite alternate;
-  }
-  
-  @keyframes flicker {
-    0% { opacity: 1; color: #39ff14; }
-    50% { opacity: 0.5; color: #ff073a; }
-    100% { opacity: 1; color: #39ff14; }
-  }
-</style>
+---
+
+<div align="center">
+  <p>🚀 Crafted with 💻 & ❤️ by Ayaan</p>
+</div>
