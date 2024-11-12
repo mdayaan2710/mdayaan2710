@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdayaan2710/mdayaan2710/main/assets/welcome.gif" width="50%" alt="Welcome!" />
+  <img src="https://raw.githubusercontent.com/mdayaan2710/mdayaan2710/Welcome (1).gif" width="50%" alt="Welcome!" />
 </div>
 
 ---
